@@ -4,6 +4,18 @@
 
 Сумісне лише з платами BLE 2.0 або окремо оновленими в сервісному центрі платами. Запланований вихід на ринок — осінь 2026 року.
 
+ - build-de version : 4.9.5ca72b9-de
+
+ - build-en version : 4.9.5ca72b9-en
+
+ - build-es version : 4.9.5ca72b9-es
+
+ - build-fr version : 4.9.5ca72b9-fr
+
+ - build-pl version : 4.9.5ca72b9-pl
+
+ - build-uk version : 4.9.5ca72b9-uk
+
 ### Як оновити прошивку?
 
 1. Скопіюйте файл `apiary.bin` на карту microSD пристрою до папки `/fm` (якщо папки немає, створіть її).

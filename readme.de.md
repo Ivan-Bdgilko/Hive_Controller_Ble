@@ -4,6 +4,18 @@ Sprache: [English](README.md) | [Українська](readme.uk.md) | [Deutsch]
 
 Nur mit BLE-2.0-Platinen oder separat von einem Servicezentrum aktualisierten Platinen kompatibel. Die Markteinführung ist für Herbst 2026 geplant.
 
+ - build-de version : 4.9.5ca72b9-de
+
+ - build-en version : 4.9.5ca72b9-en
+
+ - build-es version : 4.9.5ca72b9-es
+
+ - build-fr version : 4.9.5ca72b9-fr
+
+ - build-pl version : 4.9.5ca72b9-pl
+
+ - build-uk version : 4.9.5ca72b9-uk
+
 ### Firmware aktualisieren
 
 1. Die Datei `apiary.bin` in den Ordner `/fm` auf der microSD-Karte des Geräts kopieren (den Ordner anlegen, falls er nicht vorhanden ist).

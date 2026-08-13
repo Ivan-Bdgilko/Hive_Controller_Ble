@@ -4,6 +4,18 @@ Language: [English](README.md) | [Українська](readme.uk.md) | [Deutsch
 
 Compatible only with BLE 2.0 boards or boards upgraded separately by a service center. The planned market launch is autumn 2026.
 
+ - build-de version : 4.9.5ca72b9-de
+
+ - build-en version : 4.9.5ca72b9-en
+
+ - build-es version : 4.9.5ca72b9-es
+
+ - build-fr version : 4.9.5ca72b9-fr
+
+ - build-pl version : 4.9.5ca72b9-pl
+
+ - build-uk version : 4.9.5ca72b9-uk
+
 ### How to update the firmware
 
 1. Copy the `apiary.bin` file to the `/fm` folder on the device's microSD card (create the folder if it does not exist).
